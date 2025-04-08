@@ -3,8 +3,8 @@ Accept: application/json
 content-type: application/json
 
 {
-    "email":"achahourmohamed16@gmail.com",
-    "password":"achahourmohamed15@gmail.com"
+    "email":"ismael8989@gmail.com",
+    "password":"ismael8989@gmail.com"
 }
 
 ###
@@ -17,8 +17,8 @@ content-type: application/json
 
 {
     
-    "email": "achahourmohamed15@gmail.com",
-    "password": "achahourmohamed15@gmail.com"
+    "email": "ismael8989@gmail.com",
+    "password": "ismael8989@gmail.com"
 }
 
 ###
@@ -40,12 +40,12 @@ content-type: application/json
 Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNzM5ODk0NjI3LCJleHAiOjE3Mzk4OTgyMjcsIm5iZiI6MTczOTg5NDYyNywianRpIjoiUk5xZ21UZHlWVnJxcmlKeCIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.yIiwSgU6HZA9djTJQJt_XTkmEcPreggTq_9fsb6CUU4
 
 {
-    "designation": "Sample Book",
+    "designation": "Dune",
     "description": "This is a sample book description",
-    "type": "Roman",
-    "langue": "Anglais",
-    "editeur": "Sample Publisher",
-    "categorie": "Fiction",
+    "type": "Novel",
+    "langue": "English",
+    "editeur": "Book46",
+    "categorie": "Sci-fi",
     "prix": 29.99,
     "auteur": "John Doe",
     "cover": "sample_cover.jpg"
